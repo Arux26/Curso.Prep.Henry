@@ -254,8 +254,7 @@ function continueStatement(numero) {
       arrayNew.push(suma)
   }
 }
-return arrayNew;    
-  
+ return arrayNew;    
 }
 
 // No modificar nada debajo de esta línea
